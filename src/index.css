@@ -1,6 +1,12 @@
-@import "tailwindcss";
+/* @import "tailwindcss";
+@plugin "flowbite-react/plugin/tailwindcss";
+@source "../.flowbite-react/class-list.json";
 @plugin "flowbite/plugin";
 @source "../node_modules/flowbite";
 
+
+ */
+
+ @import "tailwindcss";
 
 
