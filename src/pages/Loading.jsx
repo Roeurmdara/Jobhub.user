@@ -177,11 +177,11 @@ export default function Loading() {
 
             {/* Right Image */}
             <div className="relative hero-image">
-              <div className="w-72 h-72 bg-gradient-to-br from-blue-100 to-blue-200 rounded-full absolute -top-8 -right-8 opacity-50 z-10"></div>
+           
               <img
                 src={person}
                 alt="Professional woman with laptop"
-                className="relative z-20 w-full max-w-md h-auto mx-auto"
+                className=" z-20 w-full max-w-md h-auto mx-auto"
               />
             </div>
           </div>
