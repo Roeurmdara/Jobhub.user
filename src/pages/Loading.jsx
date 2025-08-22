@@ -86,7 +86,7 @@ export default function Loading() {
                   />
                 </svg>
               </div>
-              <span className="text-sm text-gray-600">100% Trusted</span>
+            
             </div>
           </div>
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
